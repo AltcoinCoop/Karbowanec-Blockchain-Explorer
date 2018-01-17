@@ -1,7 +1,7 @@
-var api = 'http://45.32.232.11:32348';
-var blockTargetInterval = 240;
+var api = 'http://127.0.0.1:24091';
+var blockTargetInterval = 60;
 var coinUnits = 1000000000000;
-var symbol = 'KRB';
+var symbol = 'XSM';
 var refreshDelay = 30000;
 // pools stats by MainCoins
 var networkStat = {
