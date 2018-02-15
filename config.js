@@ -1,4 +1,4 @@
-var api = 'http://127.0.0.1:24091';
+var api = 'http://127.0.0.1:2409';
 var blockTargetInterval = 60;
 var coinUnits = 1000000000000;
 var symbol = 'XSM';
